@@ -1,2 +1,2 @@
 # tinCan
-sync application/flow/memory/network useage
+get application metadata/flow/memory/network/review details
